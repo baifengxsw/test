@@ -4,6 +4,7 @@ public class FFF {
 	private int dev ;
 	private int master;
 	private int dev1 ;
+	private int dev2;
 	private void syso() {
 
 	}
