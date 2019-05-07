@@ -1,6 +1,6 @@
 
 public class FFF {
-	private int sfsf;
+	private int sfsfd;
 	private void syso() {
 
 	}
